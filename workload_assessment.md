@@ -20,13 +20,13 @@ Provides estimate for patrol division
 
 ###Step by Step
 
-# Examine the distribution of calls for service by hour of day, day of week, and month
+#### Examine the distribution of calls for service by hour of day, day of week, and month
 
-# Examine the nature of calls for service
+#### Examine the nature of calls for service
 
-# Estimate time consumed on calls for service
+#### Estimate time consumed on calls for service
 
-# Calculate agency shift-relief factor
+#### Calculate agency shift-relief factor
 
 Table 3.5 & 3.6 outline this approach (page 42)
 
@@ -49,7 +49,7 @@ shifts_per_day = hours_day / length_shift
 total_officers_day = shifts_per_day * shift_size
 ```
 
-# Establish performance objectives
+#### Establish performance objectives
 
 Goal: Determine what fraction of a shift devoted to calls for service and what portion goes to other activities
 
@@ -65,7 +65,7 @@ Their estimate based on known community made workload (calls for service) - easi
 
 "One useful tool to determine the appropriate amount of discretionary time is to conduct interviews and focus groups with elected officials as well as representatives of neighborhood and business organizations." (pg 45)
 
-# Provide staffing estimates
+#### Provide staffing estimates
 
 Step 1: What is the # of officers needed to answer calls for service (CFS)?
 
