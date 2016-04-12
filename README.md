@@ -12,3 +12,17 @@ Workload assessment used to define how many officers should be duty per shift an
 Determines how many officers can be staffed to meet the workdload
 
 ####Step 3 - Point out assumptions to suggest better modeling
+
+###Data format
+
+.txt files
+
+Headers:
+
+* incident number 
+* datetime string: dd-mm-yyyy 00:00:00
+* code
+* code 
+
+
+
